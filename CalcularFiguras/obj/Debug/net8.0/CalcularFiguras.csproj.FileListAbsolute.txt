@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\bin\Debug\net8.0\CalcularFiguras.exe
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\bin\Debug\net8.0\CalcularFiguras.deps.json
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\bin\Debug\net8.0\CalcularFiguras.runtimeconfig.json
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\bin\Debug\net8.0\CalcularFiguras.dll
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\bin\Debug\net8.0\CalcularFiguras.pdb
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\obj\Debug\net8.0\CalcularFiguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\obj\Debug\net8.0\CalcularFiguras.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\obj\Debug\net8.0\CalcularFiguras.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\obj\Debug\net8.0\CalcularFiguras.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\obj\Debug\net8.0\CalcularFiguras.dll
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\obj\Debug\net8.0\refint\CalcularFiguras.dll
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\obj\Debug\net8.0\CalcularFiguras.pdb
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\obj\Debug\net8.0\CalcularFiguras.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Universidad cuarto semestre\HerramientasII\TallerHerramientasII\CalcularFiguras\obj\Debug\net8.0\ref\CalcularFiguras.dll
